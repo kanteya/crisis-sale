@@ -1,0 +1,9 @@
+Flask==2.3.2
+openai==0.27.8
+youtube-transcript-api==0.6.0
+
+To install these dependencies, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
