@@ -1,4 +1,4 @@
-# crisis-sale
+# CRISIS SALE
 
 How to Run the Code
 -------------------
